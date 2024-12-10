@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# Docker
+data/mysql/*
+
+# Compiled Output
+
+/dist
+/relational-schema/node_modules
+
+# Docker
+./relational-schema/data/docker/*
+
+/relational-schema/data/*
